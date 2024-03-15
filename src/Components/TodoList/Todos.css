@@ -1,0 +1,64 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Adamina&family=Merriweather&display=swap');
+
+
+.search{
+    width:80%;
+    height: 160px;
+    background: rgb(255,204,112);
+    background: linear-gradient(90deg, rgba(255,204,112,1) 2%, rgba(200,80,192,1) 37%, rgba(65,88,208,1) 89%);
+    margin: 50px auto;
+    padding: 3px;
+    border-radius: 20px;   
+}
+.Head{
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    color: #1F2F11;
+}
+.button{
+    background-color: rgba(0, 0, 0, 0.846);
+    color: white; 
+    margin: 1px 5px;
+    padding: 9px 30px;
+    border: none;
+    border-radius: 10px;
+    
+}
+button:hover{
+    background-color: #0d6614;
+    transition: all 0.5s ease-in-out;
+}
+.list{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    padding-top: 30px;
+    text-decoration:underline;
+}
+.list-container{
+    height: 1700px;
+    width: 80%;
+    background: rgb(29,94,94);
+  background: linear-gradient(0deg, rgba(29,94,94,1) 4%, rgba(116,189,108,1) 27%, rgba(150,163,171,1) 54%, rgba(99,94,226,1) 94%);
+    margin: 0 auto;
+    border-radius: 40px;
+    opacity: 0.7;
+}
+.task{
+    background-color: rgb(185, 254, 143);
+    border-radius: 0px 10px 10px 0px;
+    padding: 5px 20px;
+    font-family: 'Merriweather', serif;
+    color: #060a02;
+    font-weight: 900;
+}
+.count{
+    background-color: #fde9ca;
+    padding: 0px 30px;
+    font-size: 60px;
+    font-weight: bolder;
+    border-radius: 10px 0px 0px 10px;
+    color: black;
+    
+}
+
